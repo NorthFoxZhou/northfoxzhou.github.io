@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ZhouPei Blog</title>
+    <link>https://northfoxzhou.github.io/</link>
+    <description>Recent content on ZhouPei Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://northfoxzhou.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://northfoxzhou.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://northfoxzhou.github.io/about/</guid>
+      <description>关于我 大家好，我是周培，目前服务于新东方，担任技术专家，专注于云原生技术的研究和落地。
+工作联系： peizhou2002217@163.com
+演讲分享 年份 城市 会议 分享主题 2022 线上 TOP100 新东方基于超融合架构思想的中间件云平台建设之路 2021 北京 Cloud Insight Conference 2021 云计算峰会 新东方在有状态服务 In K8s 的实践 </description>
+    </item>
+    
+    <item>
+      <title>Posts Archive</title>
+      <link>https://northfoxzhou.github.io/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://northfoxzhou.github.io/archive/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
